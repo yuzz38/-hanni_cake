@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hanni-cake.ru/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://hanni-cake.ru/img/boxes-logo-1200.jpg</image:loc><image:title>Наборы макарон ханикаке, Владивосток</image:title></image:image>
+    <image:image><image:loc>https://hanni-cake.ru/img/bears-1200.jpg</image:loc><image:title>Макарон-мишки на заказ во Владивостоке</image:title></image:image>
+    <image:image><image:loc>https://hanni-cake.ru/img/gift-1200.jpg</image:loc><image:title>Подарочный набор макарон</image:title></image:image>
+  </url>
+</urlset>

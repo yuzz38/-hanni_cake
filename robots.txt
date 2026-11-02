@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&fbclid
+
+# AI / GEO crawlers
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexGPT
+Allow: /
+
+Sitemap: https://hanni-cake.ru/sitemap.xml
+Host: https://hanni-cake.ru
